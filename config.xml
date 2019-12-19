@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.primarasa_paskal.gojek" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>PrimarasaAntapani</name>
+<widget id="com.primarasa_Kopo.gojek" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Primarasa Kopo</name>
     <description>
-        Primarasa Antapani
+        Primarasa Kopo
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
