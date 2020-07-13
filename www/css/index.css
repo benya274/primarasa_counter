@@ -25,15 +25,15 @@ body {
     -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
     -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
     background-color:#7DF9A9;
-    background-image:linear-gradient(top, #1F281b 0%, #1F281b 51%);
-    background-image:-webkit-linear-gradient(top, #1F281b 0%, #1F281b 51%);
-    background-image:-ms-linear-gradient(top, #1F281b 0%, #1F281b 51%);
+    background-image:linear-gradient(top, #7DF9A9 0%, #7DF9A9 51%);
+    background-image:-webkit-linear-gradient(top, #7DF9A9 0%, #7DF9A9 51%);
+    background-image:-ms-linear-gradient(top, #7DF9A9 0%, #17DF9A9 51%);
     background-image:-webkit-gradient(
         linear,
         left top,
         left bottom,
-        color-stop(0, #1F281b),
-        color-stop(0.51, #1F281b)
+        color-stop(0, #7DF9A9),
+        color-stop(0.51, #7DF9A9)
     );
     background-attachment:fixed;
     font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
