@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.primarasa_Kopo.gojek" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Primarasa Kopo</name>
+<widget id="com.rsudwates.org" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://zep.com/ns/1.0">
+    <name>RSUD WATES</name>
     <description>
-        Primarasa Kopo
+        RSUD WATES
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="support@zep.com" href="http://zep.co.id">
+        ZEP
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
